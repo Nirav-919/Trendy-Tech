@@ -4,13 +4,13 @@ export default function About() {
       <div className='max-w-2xl mx-auto p-3 text-center'>
         <div>
           <h1 className='text-3xl font font-semibold text-center my-7'>
-            About Huehue' Blog
+            About Nirav' Blog
           </h1>
           <div className='text-md text-gray-500 flex flex-col gap-6'>
             <p>
-              Welcome to Huehue's Blog! This blog was created by Sahand Ghavidel
+              Welcome to Nirav's Blog! This blog was created by Nirav Chaturvedi
               as a personal project to share his thoughts and ideas with the
-              world. Sahand is a passionate developer who loves to write about
+              world. Nirav is a passionate developer who loves to write about
               technology, coding, and everything in between.
             </p>
 
