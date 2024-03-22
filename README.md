@@ -1,6 +1,6 @@
 # Trendy Tech
 
-This project is a Blog application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). It also uses Tailwind CSS for styling, Vite for build tooling, React Redux for state management, JWT (JSON Web Tokens) for authentication, and Firebase for additional services. 
+This project is a Blog application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). It also uses Tailwind CSS for styling, Vite for build tooling, React Redux for state management, JWT (JSON Web Tokens) for authentication and Firebase for additional services. 
 
 The application allows users to like and comment on the blog posts as well as authenticate users securely.
 
